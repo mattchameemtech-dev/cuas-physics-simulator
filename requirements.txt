@@ -1,3 +1,2 @@
-streamlit
-numpy
-pandas
+feedparser==6.0.11
+openai==1.54.3
